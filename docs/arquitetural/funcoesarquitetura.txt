@@ -1,0 +1,39 @@
+Projeto - Avaliação Continua 3
+
+Arquitetura
+
+Software's
+
+SQL
+Visual Code
+Pycharm
+
+Máquina para programação.
+
+Total de máquinas: 4
+Marca: DELL
+Modelo: Inspiron 14 7000 Ultrafino
+Processador: 7ª geração do Processador Intel® Core™ i7-7500U
+Sistema: Windows 10 Home Single Language
+Memoria: 16GB, DDR4, 2400MHz
+Armazenamento: Drive primário SSD de 128 GB + disco rígido de 1 TB (5400 RPM)
+Tela: 14.0
+
+Servidor
+
+Modelo: Servidor PowerEdge T440
+Sistema Operacional: Windows Server® 2016, Standard, 16 núcleos, instalação de fábrica, sem mídia, sem CAL
+Motherboard: MB
+Trusted Platform Module (TPM): Trusted Platform Module 2.0
+Configuração de chassi: Chassi com até 8 discos rígidos de 3,5", de conector automático, configuração de torre
+Envio: Envío de PowerEdge T440, BCC
+Material de embarque: Material de envio do PowerEdge T440, BCC
+Processador: Intel® Xeon® Silver 4116 de 2,1 G, 12 núcleos/24 segmentos, 2 UPIs de 9,6 GT/s, cache de 16 M, Turbo, HT (85 W) DDR4-2400
+Processador adicional: Intel® Xeon® Silver 4108 de 1,8 G, 8 núcleos/16 segmentos, 2 UPIs de 9,6 GT/s, cache de 11 M, Turbo, HT (85 W) DDR4-2400
+Configuração térmica do processador: 1 CPU padrão
+Tipo e velocidade de memória DIMM: RDIMMs de 2666 MT/s
+Memória: RDIMM de 16 GB, 2666 MT/s, duas fileiras, BCC
+Configuração RAID: C1, sem RAID em HDDs/SSDs (combinação de tipos de unidades permitida)
+Disco Rígido(HD): SATA SSD
+Placas de rede adicionais: LOM Broadcom 5720 de 1 Gb y dos puertos integrada
+Cabos de alimentação: Cabo de alimentação C13, BR14136, 250 V, 10 AMP, 6 pés (1,8 m), Brasil
