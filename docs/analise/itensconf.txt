@@ -1,0 +1,9 @@
+Análises de dados é a atividade de transformar um conjunto de dados com o objetivo de poder verificá-los melhor dando-lhes ao mesmo tempo uma razão de ser e uma análise racional.
+
+Liguagens Python e R.
+
+Dados podem ser de diversos tipos , como por exemplo:
+
+Dados quantitativos, dados como números, quantidades;
+Dados categóricos, temos estratos, dados de diversas categorias;
+Dados qualitativos, nesse caso é uma característica.
