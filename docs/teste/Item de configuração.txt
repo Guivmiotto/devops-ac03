@@ -1,0 +1,5 @@
+Teste de funcionalidade no Push Test Marker e para aplicações web o Apodora.
+Teste de desempenho com o Apache.
+Teste unitário com NUnit ou JUnit (para aplicações Java).
+Gestão dos testes com o TestMaster e o Testlink.
+Bugs e defeitos com o Redmine ou Bugzilla.
