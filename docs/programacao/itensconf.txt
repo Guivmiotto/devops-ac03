@@ -1,3 +1,0 @@
-O nosso projeto sera desenvolvindo em uma plataforma chamada PyCharm e nossa linguagem será a Python, pois essa linguagem e mais facil de se programar e é a que nós estamos aprendendo ao decorrer do curso.
-
-Maquina usada para o desenvolvimento será um processador i3 3.2Ghz 4GB e 512 GB de memoria interna.
